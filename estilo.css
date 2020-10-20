@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+#tituloPodcast
+{
+	font-family: 'Trade Winds' ;
+	color: #660066;
+}
+#tituloLiteratura
+{
+	font-family: 'Lacquer' ;
+	color: #006600;
+}
+#tituloMusica
+{
+	font-family: 'Lobster' ;
+	color:  #000099;
+}
